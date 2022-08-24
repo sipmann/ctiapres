@@ -55,7 +55,7 @@ image: https://images.unsplash.com/photo-1512255076928-7f75507c1e32?ixlib=rb-1.2
 
 ---
 layout: image-left
-image: ./imgs/tibia.jpeg
+image: /tibia.jpeg
 ---
 # Escolha da área?
 
@@ -116,7 +116,7 @@ O que é, de onde vem, do que se alimenta.
 
 ---
 layout: image-right
-image: ./imgs/purple.png
+image: /purple.png
 ---
 
 # Nubank
